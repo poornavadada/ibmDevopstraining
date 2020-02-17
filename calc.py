@@ -12,4 +12,4 @@ def multiply(x,y):
 
 def divide(x,y):
     """divivde Function"""
-    return x/i*Y
+    return x/2*Y
